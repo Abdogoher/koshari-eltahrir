@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/koshari-eltahrir/static/css/main.088b33d5.css",
-    "main.js": "/koshari-eltahrir/static/js/main.e4616d55.js",
+    "main.js": "/koshari-eltahrir/static/js/main.d45b9c19.js",
     "static/js/453.8b635acf.chunk.js": "/koshari-eltahrir/static/js/453.8b635acf.chunk.js",
     "static/media/خلفية1.png": "/koshari-eltahrir/static/media/خلفية1.d7b3b3061cd886e9fe32.png",
     "static/media/كشري8.jpg": "/koshari-eltahrir/static/media/كشري8.66a51cefffc13dccdd80.jpg",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.woff2": "/koshari-eltahrir/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
     "index.html": "/koshari-eltahrir/index.html",
     "main.088b33d5.css.map": "/koshari-eltahrir/static/css/main.088b33d5.css.map",
-    "main.e4616d55.js.map": "/koshari-eltahrir/static/js/main.e4616d55.js.map",
+    "main.d45b9c19.js.map": "/koshari-eltahrir/static/js/main.d45b9c19.js.map",
     "453.8b635acf.chunk.js.map": "/koshari-eltahrir/static/js/453.8b635acf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.088b33d5.css",
-    "static/js/main.e4616d55.js"
+    "static/js/main.d45b9c19.js"
   ]
 }
