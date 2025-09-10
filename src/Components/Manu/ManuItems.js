@@ -204,11 +204,11 @@ const AnimatedList = ({
             }}
           >
             <div className={`p-4 bg-brandOrange rounded-lg ${selectedIndex === index ? 'bg-brandOrange' : ''} ${itemClassName}`}>
-              <div className='flex justify-between items-center px-8'>
+              <div className='flex justify-between items-center px-1 md:px-8 text-xs md:text-2xl'>
                 <p className="text-brandYellow ">{item.title}</p>
                 <p className=''>{item.price}</p>
-                <button className='text-brandYellow bg-red-600 hover:bg-red-700 px-3 py-2 text-lg rounded-2xl'>اطلب الأن</button>
-                <img className='w-32 rounded-lg ' src={item.img} alt='...' />
+                <button className='text-brandYellow bg-red-600 hover:bg-red-700 px-1 md:px-3 py-0 md:py-2 text-xs md:text-lg rounded-lg md:rounded-2xl'>اطلب الأن</button>
+                <img className='w-12 md:w-32 rounded-lg ' src={item.img} alt='...' />
               </div>
             </div>
           </AnimatedItem>

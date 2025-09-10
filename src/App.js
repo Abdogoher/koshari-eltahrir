@@ -1,5 +1,5 @@
 import './App.css';
-import { HashRouter  as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from './Components/Utilites/Navbar';
 import HomePage from './Pages/HomePage';
 import Manu from './Pages/Manu';
@@ -9,7 +9,7 @@ import ContactPage from './Pages/ContactPage';
 
 function App() {
   return (
-    <div className="text-4xl font-bold text-brandRed bg-brandYellow  rounded-xl">
+    <div className="text-4xl font-bold text-brandRed bg-brandYellow rounded-xl">
       <Navbar />
       <Router>
         <Routes>
